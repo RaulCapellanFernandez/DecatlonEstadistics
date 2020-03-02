@@ -5,4 +5,3 @@ han desarrollado en la historia del decatlón en las diferentes competiciones co
 resultados.
 Con estos datos recopilados y estructurados de una manera adecuada se comenzará el tratamiento de los datos con diferentes 
 algorítmos de ingeniería artificial para ir obteniendo diferentes resultados y evaluar dichos algoritmos.
-asdadadadadawdada
