@@ -1,30 +1,29 @@
-
-Rank,Athlete,Age,Team,NOC,H,P,
-1,AndrÃ© Niklaus,26,Germany,GER,5.2,972,
-2,Aleksey Drozdov,24,Russia,RUS,5.1,941,
-3T,Bryan Clay,28,United States,USA,5,910,
+Rank,Athlete,Age,Team,NOC,H,P
+1,AndrÃ© Niklaus,26,Germany,GER,5.2,972
+2,Aleksey Drozdov,24,Russia,RUS,5.1,941
+3T,Bryan Clay,28,United States,USA,5,910
 3T,Andrey Kravchenko,22,Belarus,BLR,5,910
-3T,Aleksandr Pogorelov,28,Russia,RUS,5,
-3T,Romain Barras,28,France,FRA,5,910,
-7,Daniel Awde,20,Great Britain,GBR,4.9,880,
-8T,Andres Raja,26,Estonia,EST,4.8,849,
-8T,Mikk Pahapill,25,Estonia,EST,4.8,849,
-8T,Roman Å ebrle,33,Czech Republic,CZE,4.8,849,
-8T,Michael Schrader,21,Germany,GER,4.8,849,
-12T,Yordanis GarcÃ­a,19,Cuba,CUB,4.7,819,
-12T,Massimo Bertocchi,22,Canada,CAN,4.7,819,
-12T,EugÃ¨ne Martineau,28,Netherlands,NED,4.7,819,
+3T,Aleksandr Pogorelov,28,Russia,RUS,5,910
+3T,Romain Barras,28,France,FRA,5,910
+7,Daniel Awde,20,Great Britain,GBR,4.9,880
+8T,Andres Raja,26,Estonia,EST,4.8,849
+8T,Mikk Pahapill,25,Estonia,EST,4.8,849
+8T,Roman Å ebrle,33,Czech Republic,CZE,4.8,849
+8T,Michael Schrader,21,Germany,GER,4.8,849
+12T,Yordanis GarcÃ­a,19,Cuba,CUB,4.7,819
+12T,Massimo Bertocchi,22,Canada,CAN,4.7,819
+12T,EugÃ¨ne Martineau,28,Netherlands,NED,4.7,819
 12T,Aleksandr Parkhomenko,27,Belarus,BLR,4.7,819
-12T,Leonel SuÃ¡rez,20,Cuba,CUB,4.7,819,
-17T,Nikolay Shubyonok,23,Belarus,BLR,4.6,790,
-17T,Maurice Smith,27,Jamaica,JAM,4.6,790,
+12T,Leonel SuÃ¡rez,20,Cuba,CUB,4.7,819
+17T,Nikolay Shubyonok,23,Belarus,BLR,4.6,790
+17T,Maurice Smith,27,Jamaica,JAM,4.6,790
 19T,Oleksiy Kasianov,22,Ukraine,UKR,4.3,702
-19T,Qi Haifeng,24,China,CHN,4.3,702,
-21,Jangy Addy,23,Liberia,LBR,4.2,673,
-22T,Damjan Sitar,26,Slovenia,SLO,4,617,
-22T,Slaven Dizdarevic,27,Slovakia,SVK,4,617,
-22T,Hadi Sepehrzad,25,Iran,IRI,4,617,
-AC,David GÃ³mez,27,Spain,ESP,NM,0,
-AC,Mikko Halvari,25,Finland,FIN,NM,0,
-AC,Gonzalo Barroilhet,21,Chile,CHI,NM,0,
-AC,Trey Hardee,24,United States,USA,NM,0,
+19T,Qi Haifeng,24,China,CHN,4.3,702
+21,Jangy Addy,23,Liberia,LBR,4.2,673
+22T,Damjan Sitar,26,Slovenia,SLO,4,617
+22T,Slaven Dizdarevic,27,Slovakia,SVK,4,617
+22T,Hadi Sepehrzad,25,Iran,IRI,4,617
+AC,David GÃ³mez,27,Spain,ESP,0,0
+AC,Mikko Halvari,25,Finland,FIN,0,0
+AC,Gonzalo Barroilhet,21,Chile,CHI,0,0
+AC,Trey Hardee,24,United States,USA,0,0

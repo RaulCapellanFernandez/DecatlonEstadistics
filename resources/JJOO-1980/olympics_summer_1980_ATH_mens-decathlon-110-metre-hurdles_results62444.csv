@@ -1,21 +1,20 @@
-
-Rank,Athlete,Age,Team,NOC,T,P(1977AT),P(1985AT),
-1,Valeriu Caceanov,26,Soviet Union,URS,14.40w,915,923,
-2,Daley Thompson,21,Great Britain,GBR,14.47,907,915,
-3,Janusz Szczerkowski,26,Poland,POL,14.57,896,902,
-4,Sepp Zeilbauer,27,Austria,AUT,14.80w,870,874,
-5,Steffen Grummt,20,East Germany,GDR,14.82,868,871,
-6T,Atanas Andonov,25,Bulgaria,BUL,14.83,867,870,
-6T,Sergey Zhelanov,23,Soviet Union,URS,14.83,867,870,
-8,Stephan Niklaus,22,Switzerland,SUI,14.96,853,854,
-9,Yury Kutsenko,28,Soviet Union,URS,15.04,844,845,
-10,Georg Werthner,24,Austria,AUT,15.08,840,840,
-11,Johannes Lahti,28,Finland,FIN,15.14,834,833,
-12,Peter Hadfield,25,Australia,AUS,15.18w,830,828,
-13,Sandro Brogini,21,Italy,ITA,15.21,826,824,
-14,Brad McStravick,24,Great Britain,GBR,15.23w,824,822,
-15,Dariusz Ludwig,25,Poland,POL,15.38w,809,804,
-16,Columba Blango,24,Sierra Leone,SLE,15.45,802,796,
-17,Esa Jokinen,22,Finland,FIN,15.62,785,776,
-18,Razvigor Yankov,26,Bulgaria,BUL,15.69w,778,768,
-19,Miro Ronac,18,Peru,PER,17.19,645,605,
+Rank,Athlete,Age,Team,NOC,T,P(1977AT),P(1985AT)
+1,Valeriu Caceanov,26,Soviet Union,URS,14.4,915,923
+2,Daley Thompson,21,Great Britain,GBR,14.47,907,915
+3,Janusz Szczerkowski,26,Poland,POL,14.57,896,902
+4,Sepp Zeilbauer,27,Austria,AUT,14.8,870,874
+5,Steffen Grummt,20,East Germany,GDR,14.82,868,871
+6T,Atanas Andonov,25,Bulgaria,BUL,14.83,867,870
+6T,Sergey Zhelanov,23,Soviet Union,URS,14.83,867,870
+8,Stephan Niklaus,22,Switzerland,SUI,14.96,853,854
+9,Yury Kutsenko,28,Soviet Union,URS,15.04,844,845
+10,Georg Werthner,24,Austria,AUT,15.08,840,840
+11,Johannes Lahti,28,Finland,FIN,15.14,834,833
+12,Peter Hadfield,25,Australia,AUS,15.18,830,828
+13,Sandro Brogini,21,Italy,ITA,15.21,826,824
+14,Brad McStravick,24,Great Britain,GBR,15.23,824,822
+15,Dariusz Ludwig,25,Poland,POL,15.38,809,804
+16,Columba Blango,24,Sierra Leone,SLE,15.45,802,796
+17,Esa Jokinen,22,Finland,FIN,15.62,785,776
+18,Razvigor Yankov,26,Bulgaria,BUL,15.69,778,768
+19,Miro Ronac,18,Peru,PER,17.19,645,605

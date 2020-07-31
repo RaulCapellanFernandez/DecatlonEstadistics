@@ -1,25 +1,24 @@
-
-Rank,Athlete,Age,Team,NOC,T(H),T(A),P(1962HT),P(1985HT),P(1985AT),
-1T,Ed de Noorlander,23,Netherlands,NED,14.5w,14.53w,903,881,907,
-1T,Mykola Avilov,20,Soviet Union,URS,14.5,14.58,903,881,901,
-3T,Walter DieÃl,25,Austria,AUT,14.7w,14.77w,881,857,878,
-3T,Manfred Tiedtke,26,East Germany,GDR,14.7,14.80,881,857,874,
-5T,Wu Ah-Min,30,Chinese Taipei,TPE,14.8w,14.82w,870,845,871,
-5T,JÄnis Lanka,28,Soviet Union,URS,14.8w,14.82w,870,845,871,
-7,Hans-Joachim Walde,26,West Germany,FRG,14.8,14.87,870,845,865,
-8T,Bill Toomey,29,United States,USA,14.9,14.95,859,833,856,
-8T,Steen Smidt-Jensen,23,Denmark,DEN,14.9,14.96,859,833,854,
-8T,Lennart Hedmark,24,Sweden,SWE,14.9,14.99,859,833,851,
-8T,Urs Trautmann,28,Switzerland,SUI,14.9,14.99,859,833,851,
-12T,Kurt Bendlin,25,West Germany,FRG,15.0,15.06,848,821,842,
-12T,Gert Herunter,26,Austria,AUT,15.0,15.07,848,821,841,
-14,Spas Dzhurov,23,Bulgaria,BUL,15.1,15.17,837,809,829,
-15T,Charlemagne Anyamah,30,France,FRA,15.3,15.34,817,785,809,
-15T,Tom Waddell,30,United States,USA,15.3w,15.39w,817,785,803,
-17T,Rick Sloan,21,United States,USA,15.5,15.51,797,762,789,
-17T,Clive Longe,29,Great Britain,GBR,15.5,15.55,797,762,784,
-17T,Franz Biedermann,22,Liechtenstein,LIE,15.5,15.59,797,762,780,
-20,Joachim Kirst,21,East Germany,GDR,15.6,15.68,787,751,769,
-21,Hansruedi Kunz,23,Switzerland,SUI,15.7w,15.76w,777,739,760,
-22,Roger Lespagnard,21,Belgium,BEL,15.8,15.84,767,728,751,
-23,Don VÃ©lez,20,Nicaragua,NCA,16.2,16.24,730,684,706,
+Rank,Athlete,Age,Team,NOC,T(H),T(A),P(1962HT),P(1985HT),P(1985AT)
+1T,Ed de Noorlander,23,Netherlands,NED,14.5,14.53,903,881,907
+1T,Mykola Avilov,20,Soviet Union,URS,14.5,14.58,903,881,901
+3T,Walter DieÃl,25,Austria,AUT,14.7,14.77,881,857,878
+3T,Manfred Tiedtke,26,East Germany,GDR,14.7,14.8,881,857,874
+5T,Wu Ah-Min,30,Chinese Taipei,TPE,14.8,14.82,870,845,871
+5T,JÄnis Lanka,28,Soviet Union,URS,14.8,14.82,870,845,871
+7,Hans-Joachim Walde,26,West Germany,FRG,14.8,14.87,870,845,865
+8T,Bill Toomey,29,United States,USA,14.9,14.95,859,833,856
+8T,Steen Smidt-Jensen,23,Denmark,DEN,14.9,14.96,859,833,854
+8T,Lennart Hedmark,24,Sweden,SWE,14.9,14.99,859,833,851
+8T,Urs Trautmann,28,Switzerland,SUI,14.9,14.99,859,833,851
+12T,Kurt Bendlin,25,West Germany,FRG,15,15.06,848,821,842
+12T,Gert Herunter,26,Austria,AUT,15,15.07,848,821,841
+14,Spas Dzhurov,23,Bulgaria,BUL,15.1,15.17,837,809,829
+15T,Charlemagne Anyamah,30,France,FRA,15.3,15.34,817,785,809
+15T,Tom Waddell,30,United States,USA,15.3,15.39,817,785,803
+17T,Rick Sloan,21,United States,USA,15.5,15.51,797,762,789
+17T,Clive Longe,29,Great Britain,GBR,15.5,15.55,797,762,784
+17T,Franz Biedermann,22,Liechtenstein,LIE,15.5,15.59,797,762,780
+20,Joachim Kirst,21,East Germany,GDR,15.6,15.68,787,751,769
+21,Hansruedi Kunz,23,Switzerland,SUI,15.7,15.76,777,739,760
+22,Roger Lespagnard,21,Belgium,BEL,15.8,15.84,767,728,751
+23,Don VÃ©lez,20,Nicaragua,NCA,16.2,16.24,730,684,706
