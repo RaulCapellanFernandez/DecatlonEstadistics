@@ -882,7 +882,7 @@ del p100['Age']
 del p100['Team']
 del p100['NOC']
 del p100['P(1934T)']
-del p100['Unnamed: 8']
+#del p100['Unnamed: 8']
 
 p100.columns = ['Athlete', '100m', '100m Points']
 ########################################################################################
@@ -1705,7 +1705,7 @@ del p110h['NOC']
 del p110h['T(H)']
 del p110h['P(1962HT)']
 del p110h['P(1985HT)']
-del p110h['Unnamed: 10']
+
 
 p110h.columns = ['Athlete', '110m H', '110m H Points']
 p110h
@@ -2160,7 +2160,7 @@ del p110h['Age']
 del p110h['Team']
 del p110h['NOC']
 del p110h['P(1977AT)']
-del p110h['Unnamed: 8']
+#del p110h['Unnamed: 8']
 
 p110h.columns = ['Athlete', '110m H', '110m H Points']
 p110h
@@ -3174,7 +3174,7 @@ del ppv['Rank']
 del ppv['Age']
 del ppv['Team']
 del ppv['NOC']
-del ppv['Unnamed: 7']
+#del ppv['Unnamed: 7']
 
 ppv.columns = ['Athlete', 'Pv', 'Pv Points']
 ppv
@@ -3238,7 +3238,7 @@ del p100['Team']
 del p100['NOC']
 del p100['Unnamed: 7']
 
-p100.columns = ['Athlete', '100m', '100m Points']
+p100.columns = ['Athlete', '100m Points', '100m']
 p100
 ########################################################################################
 #Datos salto de longitud
@@ -3249,7 +3249,7 @@ del plj['Team']
 del plj['NOC']
 del plj['Unnamed: 7']
 
-plj.columns = ['Athlete', 'Lj', 'Lj Points']
+plj.columns = ['Athlete', 'Lj Points', 'Lj']
 plj
 ########################################################################################
 #Datos para lanzamiento de peso
@@ -3260,7 +3260,7 @@ del pst['Team']
 del pst['NOC']
 del pst['Unnamed: 7']
 
-pst.columns = ['Athlete', 'Sp', 'Sp Points']
+pst.columns = ['Athlete', 'Sp Points', 'Sp']
 pst
 ########################################################################################
 #Datos salto de altura
@@ -3271,7 +3271,7 @@ del phj['Team']
 del phj['NOC']
 del phj['Unnamed: 7']
 
-phj.columns = ['Athlete', 'Hj', 'Hj Points']
+phj.columns = ['Athlete', 'Hj Points', 'Hj']
 phj
 ########################################################################################
 #Datos de 400m
@@ -3282,7 +3282,7 @@ del p400['Team']
 del p400['NOC']
 del p400['Unnamed: 7']
 
-p400.columns = ['Athlete', '400m', '400m Points']
+p400.columns = ['Athlete', '400m Points', '400m']
 p400
 ########################################################################################
 #Datos de 110m vayas
@@ -3293,7 +3293,7 @@ del p110h['Team']
 del p110h['NOC']
 del p110h['Unnamed: 7']
 
-p110h.columns = ['Athlete', '110m H', '110m H Points']
+p110h.columns = ['Athlete', '110m H Points', '110m H']
 p110h
 ########################################################################################
 #Datos de lanzamiento de disco
@@ -3304,7 +3304,7 @@ del pdt['Team']
 del pdt['NOC']
 del pdt['Unnamed: 7']
 
-pdt.columns = ['Athlete', 'Dt', 'Dt Points']
+pdt.columns = ['Athlete', 'Dt Points', 'Dt']
 pdt
 ########################################################################################
 #Datos de pertiga
@@ -3315,7 +3315,7 @@ del ppv['Team']
 del ppv['NOC']
 del ppv['Unnamed: 7']
 
-ppv.columns = ['Athlete', 'Pv', 'Pv Points']
+ppv.columns = ['Athlete', 'Pv Points', 'Pv']
 ppv
 ########################################################################################
 #Datos de javalina
@@ -3326,7 +3326,7 @@ del pjt['Team']
 del pjt['NOC']
 del pjt['Unnamed: 7']
 
-pjt.columns = ['Athlete', 'Jt', 'Jt Points']
+pjt.columns = ['Athlete', 'Jt Points', 'Jt']
 pjt
 ########################################################################################
 #Datos de 1500m
@@ -3337,7 +3337,7 @@ del p1500['Team']
 del p1500['NOC']
 del p1500['Unnamed: 7']
 
-p1500.columns = ['Athlete', '1500m', '1500m Points']
+p1500.columns = ['Athlete', '1500m Points', '1500m']
 p1500
 ########################################################################################
 #Unir cada dataframe de cada prueba
@@ -3351,6 +3351,7 @@ ddbb2012 = pd.merge(ddbb2012, pdt, on='Athlete')
 ddbb2012 = pd.merge(ddbb2012, ppv, on='Athlete')
 ddbb2012 = pd.merge(ddbb2012, pjt, on='Athlete')
 ddbb2012 = pd.merge(ddbb2012, p1500, on='Athlete')
+ddbb2012
 
 
 # In[26]:
@@ -3377,7 +3378,7 @@ del p100['Team']
 del p100['NOC']
 del p100['Unnamed: 7']
 
-p100.columns = ['Athlete', '100m', '100m Points']
+p100.columns = ['Athlete', '100m Points', '100m']
 p100
 ########################################################################################
 #Datos salto de longitud
@@ -3388,7 +3389,7 @@ del plj['Team']
 del plj['NOC']
 del plj['Unnamed: 7']
 
-plj.columns = ['Athlete', 'Lj', 'Lj Points']
+plj.columns = ['Athlete', 'Lj Points', 'Lj']
 plj
 ########################################################################################
 #Datos para lanzamiento de peso
@@ -3399,7 +3400,7 @@ del pst['Team']
 del pst['NOC']
 del pst['Unnamed: 7']
 
-pst.columns = ['Athlete', 'Sp', 'Sp Points']
+pst.columns = ['Athlete', 'Sp Points', 'Sp']
 pst
 ########################################################################################
 #Datos salto de altura
@@ -3410,7 +3411,7 @@ del phj['Team']
 del phj['NOC']
 del phj['Unnamed: 7']
 
-phj.columns = ['Athlete', 'Hj', 'Hj Points']
+phj.columns = ['Athlete', 'Hj Points', 'Hj']
 phj
 ########################################################################################
 #Datos de 400m
@@ -3421,7 +3422,7 @@ del p400['Team']
 del p400['NOC']
 del p400['Unnamed: 7']
 
-p400.columns = ['Athlete', '400m', '400m Points']
+p400.columns = ['Athlete', '400m Points', '400m']
 p400
 ########################################################################################
 #Datos de 110m vayas
@@ -3432,7 +3433,7 @@ del p110h['Team']
 del p110h['NOC']
 del p110h['Unnamed: 7']
 
-p110h.columns = ['Athlete', '110m H', '110m H Points']
+p110h.columns = ['Athlete', '110m H Points', '110m H']
 p110h
 ########################################################################################
 #Datos de lanzamiento de disco
@@ -3443,7 +3444,7 @@ del pdt['Team']
 del pdt['NOC']
 del pdt['Unnamed: 7']
 
-pdt.columns = ['Athlete', 'Dt', 'Dt Points']
+pdt.columns = ['Athlete', 'Dt Points', 'Dt']
 pdt
 ########################################################################################
 #Datos de pertiga
@@ -3454,7 +3455,7 @@ del ppv['Team']
 del ppv['NOC']
 del ppv['Unnamed: 7']
 
-ppv.columns = ['Athlete', 'Pv', 'Pv Points']
+ppv.columns = ['Athlete', 'Pv Points', 'Pv']
 ppv
 ########################################################################################
 #Datos de javalina
@@ -3465,7 +3466,7 @@ del pjt['Team']
 del pjt['NOC']
 del pjt['Unnamed: 7']
 
-pjt.columns = ['Athlete', 'Jt', 'Jt Points']
+pjt.columns = ['Athlete', 'Jt Points', 'Jt']
 pjt
 ########################################################################################
 #Datos de 1500m
@@ -3476,7 +3477,7 @@ del p1500['Team']
 del p1500['NOC']
 del p1500['Unnamed: 7']
 
-p1500.columns = ['Athlete', '1500m', '1500m Points']
+p1500.columns = ['Athlete', '1500m Points', '1500m']
 p1500
 ########################################################################################
 #Unir cada dataframe de cada prueba
@@ -3676,10 +3677,10 @@ ddbbWC2007.insert(4, "Year", year)
 ddbbWC2007.insert(5, "Competiton", competition) 
 ddbbWC2007.insert(2, "Age", age)
 
-ddbbWC2007.columns = ['Position', 'Athlete', 'Age', 'Country', 'Total Points', 'Year', 'Competition', '100m', 
-                 '100m Points', 'Lj', 'Lj Points', 'Sp', 'Sp Points', 'Hj', 'Hj Points', '400m', '400m Points', 
-                 '110m H', '110m H Points', 'Dt', 'Dt Points', 'Pv', 'Pv Points', 'Jt', 'Jt Points', 
-                 '1500m', '1500m Points']
+ddbbWC2007.columns = ['Position', 'Athlete', 'Age', 'Country', 'Total Points', 'Year', 'Competition', '100m Points', 
+                 '100m', 'Lj Points', 'Lj', 'Sp Points', 'Sp', 'Hj Points', 'Hj', '400m Points', '400m', 
+                 '110m H Points', '110m H', 'Dt Points', 'Dt', 'Pv Points', 'Pv', 'Jt Points', 'Jt', 
+                 '1500m Points', '1500m']
 
 #Borra las filas vacias que use en el excel
 ddbbWC2007.dropna(subset = ["Position"], inplace=True)
@@ -3916,7 +3917,7 @@ ddbbWC1991.insert(2, "Age", age)
 
 del ddbbWC1991['Pos']#Borra una columna repetida dentro del excel
 
-ddbbWC1991.columns = ['Position', 'Athlete', 'Age', 'Country', 'Total Points', 'Year', 'Competition', '100m', 
+ddbbWC1991.columns = ['Position', 'Age', 'Athlete', 'Country', 'Year', 'Competition', 'Total Points', '100m', 
                  '100m Points', 'Lj', 'Lj Points', 'Sp', 'Sp Points', 'Hj', 'Hj Points', '400m', '400m Points', 
                  '110m H', '110m H Points', 'Dt', 'Dt Points', 'Pv', 'Pv Points', 'Jt', 'Jt Points', 
                  '1500m', '1500m Points']
@@ -3986,7 +3987,7 @@ ddbbWC1983.columns = ['Position', 'Athlete', 'Age', 'Country', 'Total Points', '
 ddbbWC1983.dropna(subset = ["Position"], inplace=True)
 
 
-# In[45]:
+# In[47]:
 
 
 #Concatenar diferentes dataframes
@@ -3996,7 +3997,8 @@ pFinal  = pd.concat([ddbb,ddbb1924,ddbb1928,ddbb1932,ddbb1936,ddbb1948,ddbb1952,
                      ddbbWC2007,ddbbWC2005,ddbbWC2003,ddbbWC2001,ddbbWC1999,ddbbWC1997,ddbbWC1995,ddbbWC1993,
                      ddbbWC1991,ddbbWC1987,ddbbWC1983])
 
-#pFinal
+#Create an excel with all the previous data
+#pFinal.to_excel (r'/Github/DecatlonEstadistics/data.xlsx', index = False, header=True)
 
 
 # In[46]:
