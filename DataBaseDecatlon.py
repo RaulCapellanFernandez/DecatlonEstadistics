@@ -3999,12 +3999,3 @@ pFinal  = pd.concat([ddbb,ddbb1924,ddbb1928,ddbb1932,ddbb1936,ddbb1948,ddbb1952,
 
 #Create an excel with all the previous data
 #pFinal.to_excel (r'/Github/DecatlonEstadistics/data.xlsx', index = False, header=True)
-
-
-# In[46]:
-
-
-def devuelveDataFframe():
-       dataFrame = pFinal
-       return dataFrame
-
