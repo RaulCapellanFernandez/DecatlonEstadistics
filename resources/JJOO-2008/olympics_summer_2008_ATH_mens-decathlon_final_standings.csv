@@ -1,42 +1,41 @@
-
-Rank,Athlete,Age,Team,NOC,Medal,P(1985AT),
-1,Bryan Clay,28,United States,USA,Gold,8.791,
-2,Andrey Kravchenko,22,Belarus,BLR,Silver,8.551,
-3,Leonel SuÃ¡rez,20,Cuba,CUB,Bronze,8.527,
-4,Aleksandr Pogorelov,28,Russia,RUS,,8.328,
-5,Romain Barras,28,France,FRA,,8.253,
-6,Roman Å ebrle,33,Czech Republic,CZE,,8.241,
-7,Oleksiy Kasianov,22,Ukraine,UKR,,8.238,
-8,AndrÃ© Niklaus,26,Germany,GER,,8.220,
-9,Maurice Smith,27,Jamaica,JAM,,8.205,
-10,Michael Schrader,21,Germany,GER,,8.194,
-11,Mikk Pahapill,25,Estonia,EST,,8.178,
-12,Aleksey Drozdov,24,Russia,RUS,,8.154,
-13,Andres Raja,26,Estonia,EST,,8.118,
-14,EugÃ¨ne Martineau,28,Netherlands,NED,,8.055,
-15,Yordanis GarcÃ­a,19,Cuba,CUB,,7.992,
-16,Nikolay Shubyonok,23,Belarus,BLR,,7.906,
-17,Aleksandr Parkhomenko,27,Belarus,BLR,,7.838,
-18,Qi Haifeng,24,China,CHN,,7.835,
-19,Massimo Bertocchi,22,Canada,CAN,,7.714,
-20,Jangy Addy,23,Liberia,LBR,,7.665,
-21,Daniel Awde,20,Great Britain,GBR,,7.516,
-22,Hadi Sepehrzad,25,Iran,IRI,,7.483,
-23,Damjan Sitar,26,Slovenia,SLO,,7.336,
-24,Slaven DizdareviÄ,27,Slovakia,SVK,,7.021,
-25,David GÃ³mez,27,Spain,ESP,,6.876,
-26,Mikko Halvari,25,Finland,FIN,,6.486,
-AC,Gonzalo Barroilhet,21,Chile,CHI,,DNF,
-AC,Trey Hardee,24,United States,USA,,DNF,
-AC,JÄnis KarlivÄns,26,Latvia,LAT,,DNF,
-AC,Aleksey Sysoyev,23,Russia,RUS,,DNF,
-AC,Pavel Andreyev,29,Uzbekistan,UZB,,DNF,
-AC,Carlos Chinin,23,Brazil,BRA,,DNF,
-AC,Victor Covalenco,32,Moldova,MDA,,DNF,
-AC,FrÃ©dÃ©ric Xhonneux,25,Belgium,BEL,,DNF,
-AC,Arthur Abele,22,Germany,GER,,DNF,
-AC,Hans Van Alphen,26,Belgium,BEL,,DNF,
-AC,Vitaly Smirnov,29,Uzbekistan,UZB,,DNF,
-AC,Tom Pappas,31,United States,USA,,DNF,
-AC,Attila ZsivÃ³czky,31,Hungary,HUN,,DNF,
-AC,Dmitry Karpov,27,Kazakhstan,KAZ,,DNF,
+Rank,Athlete,Age,Team,NOC,Medal,P(1985AT)
+1,Bryan Clay,28,United States,USA,Gold,8791
+2,Andrey Kravchenko,22,Belarus,BLR,Silver,8551
+3,Leonel SuÃ¡rez,20,Cuba,CUB,Bronze,8527
+4,Aleksandr Pogorelov,28,Russia,RUS,,8328
+5,Romain Barras,28,France,FRA,,8253
+6,Roman Å ebrle,33,Czech Republic,CZE,,8241
+7,Oleksiy Kasianov,22,Ukraine,UKR,,8238
+8,AndrÃ© Niklaus,26,Germany,GER,,8220
+9,Maurice Smith,27,Jamaica,JAM,,8205
+10,Michael Schrader,21,Germany,GER,,8194
+11,Mikk Pahapill,25,Estonia,EST,,8178
+12,Aleksey Drozdov,24,Russia,RUS,,8154
+13,Andres Raja,26,Estonia,EST,,8118
+14,EugÃ¨ne Martineau,28,Netherlands,NED,,8055
+15,Yordanis GarcÃ­a,19,Cuba,CUB,,7992
+16,Nikolay Shubyonok,23,Belarus,BLR,,7906
+17,Aleksandr Parkhomenko,27,Belarus,BLR,,7838
+18,Qi Haifeng,24,China,CHN,,7835
+19,Massimo Bertocchi,22,Canada,CAN,,7714
+20,Jangy Addy,23,Liberia,LBR,,7665
+21,Daniel Awde,20,Great Britain,GBR,,7516
+22,Hadi Sepehrzad,25,Iran,IRI,,7483
+23,Damjan Sitar,26,Slovenia,SLO,,7336
+24,Slaven DizdareviÄ,27,Slovakia,SVK,,7021
+25,David GÃ³mez,27,Spain,ESP,,6876
+26,Mikko Halvari,25,Finland,FIN,,6486
+AC,Gonzalo Barroilhet,21,Chile,CHI,,DNF
+AC,Trey Hardee,24,United States,USA,,DNF
+AC,JÄnis KarlivÄns,26,Latvia,LAT,,DNF
+AC,Aleksey Sysoyev,23,Russia,RUS,,DNF
+AC,Pavel Andreyev,29,Uzbekistan,UZB,,DNF
+AC,Carlos Chinin,23,Brazil,BRA,,DNF
+AC,Victor Covalenco,32,Moldova,MDA,,DNF
+AC,FrÃ©dÃ©ric Xhonneux,25,Belgium,BEL,,DNF
+AC,Arthur Abele,22,Germany,GER,,DNF
+AC,Hans Van Alphen,26,Belgium,BEL,,DNF
+AC,Vitaly Smirnov,29,Uzbekistan,UZB,,DNF
+AC,Tom Pappas,31,United States,USA,,DNF
+AC,Attila ZsivÃ³czky,31,Hungary,HUN,,DNF
+AC,Dmitry Karpov,27,Kazakhstan,KAZ,,DNF

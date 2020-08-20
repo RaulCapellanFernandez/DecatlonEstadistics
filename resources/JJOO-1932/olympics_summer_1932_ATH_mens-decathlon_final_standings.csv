@@ -1,16 +1,15 @@
-
 Rank,Athlete,Age,Team,NOC,Medal,P(1912BT),P(1985T),
-1,Jim Bausch,26,United States,USA,Gold,8462.235,6.735,WR
-2,Akilles JÃ¤rvinen,26,Finland,FIN,Silver,8292.480,6.879,WR
-3,Wolrad Eberle,24,Germany,GER,Bronze,8030.805,6.661,
-4,Buster Charles,24,United States,USA,,7985.000,6.716,
-5,Hans-Heinrich Sievert,22,Germany,GER,,7941.075,6.515,
-6,Paavo YrjÃ¶lÃ¤,30,Finland,FIN,,7687.990,6.385,
-7,Clyde Coffman,21,United States,USA,,7534.410,6.265,
-8,Bob Tisdall,25,Ireland,IRL,,7327.170,6.398,
-9,Erwin Wegner,23,Germany,GER,,7179.935,6.189,
-10,PÃ©ter BÃ¡csalmÃ¡si,23,Hungary,HUN,,7001.735,5.788,
-11,Harry Hart,26,South Africa,RSA,,6799.255,5.697,
+1,Jim Bausch,26,United States,USA,Gold,8462.235,6735,WR
+2,Akilles JÃ¤rvinen,26,Finland,FIN,Silver,8292.48,6879,WR
+3,Wolrad Eberle,24,Germany,GER,Bronze,8030.805,6661,
+4,Buster Charles,24,United States,USA,,7985,6716,
+5,Hans-Heinrich Sievert,22,Germany,GER,,7941.075,6515,
+6,Paavo YrjÃ¶lÃ¤,30,Finland,FIN,,7687.99,6385,
+7,Clyde Coffman,21,United States,USA,,7534.41,6265,
+8,Bob Tisdall,25,Ireland,IRL,,7327.17,6398,
+9,Erwin Wegner,23,Germany,GER,,7179.935,6189,
+10,PÃ©ter BÃ¡csalmÃ¡si,23,Hungary,HUN,,7001.735,5788,
+11,Harry Hart,26,South Africa,RSA,,6799.255,5697,
 AC,JÄnis Dimza,25,Latvia,LAT,,,,DNF
 AC,Zygmunt Siedlecki,25,Poland,POL,,,,DNF
 AC,HÃ©ctor Berra,22,Argentina,ARG,,,,DNF
